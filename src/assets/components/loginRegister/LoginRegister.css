@@ -1,0 +1,64 @@
+.wrapper{
+    max-width: 1280px;
+    margin: 0px auto;
+    height: 100vh;
+    border: 1px solid black;
+}
+
+.form-boxlogin{
+    width: 50%;
+    margin: 0px auto;
+    height: auto;
+    background-color: lightblue;
+}
+
+.input-box{
+    /* border: 1px solid black;
+     */
+     padding: 20px 0px;
+}
+
+.input-box label{
+    font-size: 40px;
+    color: lightcoral;
+    font-weight: 500;
+}
+
+.input-box input{
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 30px;
+    width: 300px;
+}
+
+.remember-forget{
+    font-size: 20px;
+}
+
+.remember-forget a{
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+button{
+    padding: 5px;
+    font-size: 30px;
+    background-color: lightcoral;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    margin: 20px 40%;
+}
+
+.register-link {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 0px;
+    margin-top: -35px;
+}
+
+.register-link a{
+    text-decoration: none;
+}
